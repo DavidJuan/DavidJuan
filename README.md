@@ -50,7 +50,7 @@
              alt="javascript"
              width="40"
              height="40" /> </a>
-    <a href="https://www.w3.org/html/"
+    <a href="https://html.spec.whatwg.org/multipage/"
        target="_blank"> <img
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
              alt="html5"
