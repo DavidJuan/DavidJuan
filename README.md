@@ -90,4 +90,4 @@
              height="40" /> </a>
 </p>
  
-![Snake animation](https://github.com/DavidJuan/DavidJuan/blob/main/github-user-contribution.svg)
+![Snake animation](https://github.com/DavidJuan/DavidJuan/blob/output/github-contribution-grid-snake.svg)
