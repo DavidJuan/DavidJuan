@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:  <a href = "mailto:davidjfds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- 📄 Know about my experiences:   <a href="https://www.linkedin.com/in/david-juan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📄 Know about my experiences: [davidjuan.github.io](https://davidjuan.github.io/)
 
  <div>
   <a href="https://github.com/davidjuan">
